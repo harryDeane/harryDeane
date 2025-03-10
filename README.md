@@ -64,7 +64,6 @@ I'm always open to connecting with fellow developers, sharing ideas, and collabo
 
 Feel free to reach out if you'd like to collaborate, discuss game development, or just say hi!
 
-- **Email**: [harry.deane.99@gmail.com](mailto:harry.deane.99@gmail.com)
 - **Discord**: HDeane18#5230
 
 ---

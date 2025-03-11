@@ -20,9 +20,9 @@ Hi there! I'm **Harry Deane**, a passionate **Game Developer** with a strong foc
 Here are some of the projects I'm most proud of:
 
 ### 1. **[OpenGL Landscape Explorer](https://github.com/harryDeane/COMP3016-Coursework2)**
-   - **Description**: A brief description of the project, what it does, and why it's cool.
+   - **Description**: This project is an interactive 3D mountain landscape explorer built using OpenGL and various other libraries like GLFW, GLEW, ASSIMP, and Irrklang.
    - **Technologies Used**:OpenGL, C++, Git
-   - **Demo**: [Link to Demo or Video](https://youtu.be/q4-YN3lhoqs)
+   - **Demo**: [Link to Video Demonstration](https://youtu.be/q4-YN3lhoqs)
 
 ### 2. **[Project Name 2](link-to-repo-or-demo)**
    - **Description**: A brief description of the project, what it does, and why it's cool.

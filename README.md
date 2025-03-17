@@ -24,14 +24,14 @@ Here are some of the projects I'm most proud of:
    - **Technologies Used**:OpenGL, C++, Git
    - **Demo**: [Link to Video Demonstration](https://youtu.be/q4-YN3lhoqs)
 
-### 2. **[Project Name 2](link-to-repo-or-demo)**
-   - **Description**: A brief description of the project, what it does, and why it's cool.
-   - **Technologies Used**: Unity, C#, GLSL, etc.
+### 2. **[BLIND HUNT VR](link-to-repo-or-demo)**
+   - **Description**: BLIND HUNT VR is my final year project in which I explore using echolocation for nagivation. Built for VR, players are emmersed into game of cat and mouse, making use of sounds to navigate their surroundings.
+   - **Technologies Used**: Unity, C#, VR.
    - **Demo**: [Link to Demo or Video](#)
 
-### 3. **[Project Name 3](link-to-repo-or-demo)**
-   - **Description**: A brief description of the project, what it does, and why it's cool.
-   - **Technologies Used**: Unity, C++, OpenGL, etc.
+### 3. **[Guard Duty](link-to-repo-or-demo)**
+   - **Description**: Guard Duty is an intense stealth multiplayer game created following the Agile methodology within a team of 3 students including myself. 
+   - **Technologies Used**: Unity, C#.
    - **Demo**: [Link to Demo or Video](#)
 
 ---
